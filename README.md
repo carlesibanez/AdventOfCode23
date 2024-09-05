@@ -12,7 +12,7 @@ The solutions for the 25 puzzles, both parts are shown in the table below:
 |       | Part 1    | Part 2  |
 |---    | --------  | ------- |
 |Day 1  | 53651     | 53894   |
-|Day 2  |           |         |
+|Day 2  | 2771      |         |
 |Day 3  |           |         |
 |Day 4  |           |         |
 |Day 5  |           |         |
