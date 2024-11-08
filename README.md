@@ -20,7 +20,7 @@ The solutions for the 25 puzzles, both parts are shown in the table below:
 |Day 7  | 253603890 | 253630098|
 |Day 9  | 12643     | 13133452426987|
 |Day 10 | 7145      | 445     |
-|Day 11 |           |         |
+|Day 11 | 10494813  | 840988812853|
 |Day 12 |           |         |
 |Day 13 |           |         |
 |Day 14 |           |         |
